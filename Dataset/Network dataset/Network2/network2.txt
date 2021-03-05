@@ -1,0 +1,152 @@
+gene	drug
+SCN4A	Verapamil
+CACNG7	Verapamil
+PKD1	Gabapentin
+CACNA1D	Nitrendipine 
+CACNB3 	Phenytoin
+ITPR3	Gabapentin
+CACNA1D Nisoldipine
+CACNA1F	Nifedipine
+ITPR1	Cinnarizine
+TRPV6	Pimozide
+CACNG7	Phenytoin
+CACNA1S	Verapamil
+CACNB4 	Pimozide
+TRPA1	Phenytoin
+CACNB2	Nifedipine
+ITPR3	Pimozide
+GABRA2	Propofol
+ITPR3	Cinnarizine
+CACNG2	Phenytoin
+TRPV6	Phenytoin
+CACNB2	Cinnarizine
+CACNA2D3 Phenytoin
+CACNG4	Phenytoin
+TRPV6	Cinnarizine
+TRPV6	Gabapentin
+CACNA1B	Pimozide
+CACNA1C	Nitrendipine 
+CACNA1B	Phenytoin
+ITPR1	Phenytoin
+CACNB1	Gabapentin
+CACNB4 	Phenytoin
+CACNG7	Gabapentin
+TRPA1	Pimozide
+GABRA1	Diazepam
+ITPR1	Pimozide
+CACNA1D	Nifedipine
+CACNA1E	Cinnarizine
+PKD1	Pimozide
+CACNA1H	Phenytoin
+GABRR1	Propofol
+PKD1	Phenytoin
+SCN5A	Prilocaine hydrochloride
+CACNG4	Gabapentin
+SCN3A	Zonisamide
+CACNA1B Cinnarizine
+ITPR3	Phenytoin
+CACNB1 	Phenytoin
+SCN4A	Proparacaine hydrochloride
+CACNB3	Gabapentin
+GABRA6	Diazepam
+ADRA2B	Epinephrine bitartrate
+ADRA1D	Epinephrine bitartrate
+ADRA1B	Olanzapine
+ADRA2B	Prazosin hydrochloride
+ADRA1A	Epinephrine hydrochloride
+ADRA1D	Bethanidine sulfate
+ADRA1B	Pindolol
+ADRA1D	Guanethidine sulfate
+ADRA1B	Bethanidine sulfate
+HTR1B	Sumatriptan
+ADRB2	l-Isoprenaline hydrochloride
+ADRA1B	Carvedilol
+HTR1D	Sumatriptan
+ADRA2B	Epinephrine hydrochloride
+ADRA1D	Epinephrine hydrochloride
+ADRA1D	Phentolamine mesylate
+ADRA1B	Epinephrine hydrochloride
+HTR1D	Epinephrine bitartrate
+HTR1D	Clonidine
+ADRB1	Pindolol
+ADRA1B	Epinephrine bitartrate
+ADRA2B	Oxymetazoline hydrochloride
+ADRA1D	Pindolol
+ADRB2	Isoproterenol hydrochloride
+ADRA2B	Phentolamine mesylate
+ADRA1B	Phentolamine mesylate
+HTR1D	Phentolamine mesylate
+ADRA1D	Clonidine
+HTR1F	Sumatriptan
+ADRA1B	Guanadrel sulfate
+ADRA1B	Nifedipine
+ADRA1D	Oxymetazoline hydrochloride
+ADRA1D	Olanzapine
+ADRA1A	Olanzapine
+ADRA1D	Nifedipine
+ADRA1B	Oxymetazoline hydrochloride
+ADRA1D	Guanadrel sulfate
+HTR2A	Clozapine
+ADRA2B	Olanzapine
+ADRA2B	Bethanidine sulfate
+HTR1D	Epinephrine hydrochloride
+ADRB2	Pindolol
+ADRA1D	Clozapine
+ADRA1B	Guanethidine sulfate
+ADRA1B	Clozapine
+GRM8	Riluzole
+ADRA1D	Risperidone
+ADRB1	Acebutolol
+DRD1	Olanzapine
+ADRA1D	Epinastine hydrochloride
+UGT2B4	Atazanavir sulfate
+UGT2B10	Atazanavir sulfate
+UGT2B11	Atazanavir sulfate
+UGT2B17	Atazanavir sulfate
+UGT2B7	Atazanavir sulfate
+UGT1A9 	Atazanavir sulfate
+UGT1A8	Atazanavir sulfate
+UGT2B15 Atazanavir sulfate
+UGT1A7	Atazanavir sulfate
+UGT1A10	Atazanavir sulfate
+CELA2A	Aminocaproic acid
+UGT1A3	Atazanavir sulfate
+UGT2B28	Atazanavir sulfate
+UGT1A5 	Atazanavir sulfate
+EPHB1	Imatinib mesylate
+HCK	Imatinib mesylate
+FYN	Imatinib mesylate
+UGT1A4 	Atazanavir sulfate
+PRSS3	Aminocaproic acid
+EPHA3	Imatinib mesylate
+EPHA4	Imatinib mesylate
+SRC 	Imatinib mesylate
+UGT1A1	Atazanavir sulfate
+YES1	Imatinib mesylate
+FGFR2	Imatinib mesylate
+PRSS2	Aminocaproic acid
+EPHA2	Imatinib mesylate
+EPHA5	Imatinib mesylate
+FGFR3	Imatinib mesylate
+CYP3A4	Methoxsalen
+EPHA1	Imatinib mesylate
+EPHB4	Imatinib mesylate
+LCK	Imatinib mesylate
+LYN	Imatinib mesylate
+FGFR4	Imatinib mesylate
+UGT1A6 	Atazanavir sulfate
+NTRK1	Imatinib mesylate
+CA2	Hydrochlorothiazide
+EPHB2	Imatinib mesylate
+MERTK	Imatinib mesylate
+TXK	Imatinib mesylate
+TPSB2 	Aminocaproic acid
+EPHB3	Imatinib mesylate
+EPHA7	Imatinib mesylate
+LTK 	Imatinib mesylate
+KLK8	Aminocaproic acid
+UGT2A1	Atazanavir sulfate
+ROR2	Imatinib mesylate
+CELA3B	Aminocaproic acid
+CA2	Dichlorphenamide
+
